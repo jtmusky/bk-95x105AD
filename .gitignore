@@ -10,6 +10,9 @@ node_modules
 # Book build output
 _book
 
+# SublimeText Files
+*.sublime-workspace
+
 # eBook build output
 *.epub
 *.mobi
